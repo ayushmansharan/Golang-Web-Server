@@ -97,10 +97,5 @@ If everything is working correctly, the index page should load. Check the source
    - **FileServer Handler Implementation**
 4. Run the requests matching the current mode of the Web server.
 
-## License
-This project is available under the MIT License.
 
----
-
-Feel free to contribute, raise issues, or suggest improvements!
 
